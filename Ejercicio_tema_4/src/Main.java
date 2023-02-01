@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EjercicioTema4 {
+public class Main {
     public static void main(String[] args) {
 
         int numeroIf = 5, numeroWhile = -3, numeroWhile2 = -3;
